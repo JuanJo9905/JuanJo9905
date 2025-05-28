@@ -5,7 +5,7 @@
 
 <!-- Información personal -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=¡Hola+soy+Juan+José!+👋;Desarrollador+Full-Stack+desde+Colombia+🇨🇴;Siempre+construyendo+algo+nuevo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=¡Hola+soy+Juan+José!+👋;Desarrollador+Full-Stack;Siempre+construyendo+algo+nuevo+🚀" alt="Typing SVG" />
 </h1>
 
 <!-- Enlaces sociales -->

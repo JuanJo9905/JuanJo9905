@@ -10,13 +10,13 @@
 
 <!-- Enlaces sociales -->
 <p align="center">
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/juan-jose-gonzalez-quintero">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:juan.jo.gonza70@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://tu-sitio-web.com">
+  <a href="https://juanjo9905.github.io/tarjeta_presentacion/">
     <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio"/>
   </a>
 </p>
@@ -34,10 +34,25 @@
 
 🚀 **Apasionado por la tecnología** y en constante evolución como desarrollador full-stack
 
-• 🏢 **Actualmente trabajando** en proyectos de gestión empresarial y sistemas de salud veterinaria  
-• 📚 **Estoy estudiando** y perfeccionando mis habilidades en C#, PHP y desarrollo frontend moderno  
-• ❤️ **Me encanta** crear soluciones innovadoras que resuelvan problemas reales  
-• 💬 **¿Quieres contactar conmigo?** ¡Siempre abierto a colaborar!  
+• 🌍 **Desde Colombia** 🇨🇴  
+• 🔭 **Actualmente trabajo en:** Desarrollo de aplicaciones web e integraciones a través de APIs  
+• 🌱 **Estoy aprendiendo:** Nuevas tecnologías en C#, Java y .NET  
+• 👯 **Busco colaborar en:** Proyectos de desarrollo web y aplicaciones empresariales o cualquier proyecto que suene interesante  
+• 💬 **Pregúntame sobre:** Python, HTML/CSS, JavaScript, SQL e integración de APIs  
+• 📫 **Cómo contactarme:** juan.jo.gonza70@gmail.com o a través de GitHub  
+• ⚡ **Dato curioso:** Me apasiona crear soluciones tecnológicas y lo que no sé, ¡lo aprendo!  
+
+### 💼 Experiencia y Enfoque
+- **Backend:** Desarrollo en JS con enfoque en aplicaciones robustas y escalables
+- **Frontend:** Creación de interfaces atractivas con HTML5, CSS3 y efectos visuales avanzados
+- **Web Development:** Aplicaciones en Node y React para gestión de contenido y bases de datos
+- **Problem Solving:** Soluciones tecnológicas para sectores como salud veterinaria y entretenimiento
+
+### 🎯 Objetivos Actuales
+- 🌟 Expandir conocimientos en frameworks modernos
+- 🤝 Colaborar en proyectos open source
+- 📚 Compartir conocimiento con la comunidad de desarrolladores
+- 🚀 Desarrollar aplicaciones que impacten positivamente
 
 ---
 
@@ -47,16 +62,21 @@
 
 ### Lenguajes de Programación
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ### Frameworks y Librerías
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
@@ -73,6 +93,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/>
 </p>
 
 </div>
@@ -99,9 +120,6 @@
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJo9905&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Lenguajes más usados"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanJo9905&custom_title=Gráfico%20de%20Contribuciones&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=F85D7F&area=true" alt="Gráfico de actividad"/>
 
 </div>
 
@@ -141,21 +159,21 @@
 </a>
 <br>
 <br>
-<p><strong>Gestión de carteleras de cine</strong> con operaciones CRUD completas y interfaz intuitiva</p>
+<p><strong>Gestión de carteleras de cine</strong> con operaciones CRUD completas e interfaz intuitiva</p>
 </div>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">🎓 Proyecto SENA</h3>
+<h3 align="center">☕ Coffee Project</h3>
 <div align="center">
-<a href="https://github.com/JuanJo9905/proyectoSena" target="_blank">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<a href="https://github.com/JuanJo9905/coffe-project" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </a>
 <br>
 <br>
-<p><strong>Proyecto final del SENA</strong> que demuestra conocimientos adquiridos en desarrollo</p>
+<p><strong>Landing page interactiva</strong> para la exploración de una página moderna y atractiva</p>
 </div>
 </td>
 
@@ -184,9 +202,9 @@
 
 <div align="center">
   
-**📈 Este año en GitHub:**
+**📈 Contribuciones este año:**
   
-<img src="https://raw.githubusercontent.com/JuanJo9905/JuanJo9905/output/github-contribution-grid-snake.svg" alt="Contribuciones"/>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanJo9905&bg_color=0d1117&color=f8d866&line=f85d7f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -208,6 +226,7 @@
 - 🏢 Aplicaciones empresariales  
 - 🎨 Desarrollo frontend creativo
 - 📱 Soluciones web responsivas
+- 🔗 Integración de APIs
 
 </div>
 
